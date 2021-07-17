@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CODU.ai.interview.solution/1.0.0": {
+        "runtime": {
+          "CODU.ai.interview.solution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CODU.ai.interview.solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
