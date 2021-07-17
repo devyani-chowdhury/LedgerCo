@@ -1,0 +1,16 @@
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\bin\Debug\net5.0\CODU.ai.interview.solution.exe
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\bin\Debug\net5.0\CODU.ai.interview.solution.deps.json
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\bin\Debug\net5.0\CODU.ai.interview.solution.runtimeconfig.json
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\bin\Debug\net5.0\CODU.ai.interview.solution.runtimeconfig.dev.json
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\bin\Debug\net5.0\CODU.ai.interview.solution.dll
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\bin\Debug\net5.0\ref\CODU.ai.interview.solution.dll
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\bin\Debug\net5.0\CODU.ai.interview.solution.pdb
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\net5.0\CODU.ai.interview.solution.csprojAssemblyReference.cache
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\net5.0\CODU.ai.interview.solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\net5.0\CODU.ai.interview.solution.AssemblyInfoInputs.cache
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\net5.0\CODU.ai.interview.solution.AssemblyInfo.cs
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\net5.0\CODU.ai.interview.solution.csproj.CoreCompileInputs.cache
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\net5.0\CODU.ai.interview.solution.dll
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\net5.0\ref\CODU.ai.interview.solution.dll
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\net5.0\CODU.ai.interview.solution.pdb
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\net5.0\CODU.ai.interview.solution.genruntimeconfig.cache

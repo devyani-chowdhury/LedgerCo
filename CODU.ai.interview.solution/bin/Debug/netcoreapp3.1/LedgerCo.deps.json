@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LedgerCo/1.0.0": {
+        "runtime": {
+          "LedgerCo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LedgerCo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

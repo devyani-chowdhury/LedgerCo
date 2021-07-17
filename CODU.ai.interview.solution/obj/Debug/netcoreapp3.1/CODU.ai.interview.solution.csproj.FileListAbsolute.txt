@@ -1,0 +1,31 @@
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\geektrust\geektrust.exe
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\geektrust\geektrust.deps.json
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\geektrust\geektrust.runtimeconfig.json
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\geektrust\geektrust.runtimeconfig.dev.json
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\geektrust\geektrust.dll
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\geektrust\geektrust.pdb
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\bin\Debug\netcoreapp3.1\geektrust.exe
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\bin\Debug\netcoreapp3.1\geektrust.deps.json
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\bin\Debug\netcoreapp3.1\geektrust.runtimeconfig.json
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\bin\Debug\netcoreapp3.1\geektrust.runtimeconfig.dev.json
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\bin\Debug\netcoreapp3.1\geektrust.dll
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\bin\Debug\netcoreapp3.1\geektrust.pdb
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\netcoreapp3.1\CODU.ai.interview.solution.csprojAssemblyReference.cache
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\netcoreapp3.1\CODU.ai.interview.solution.AssemblyInfoInputs.cache
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\netcoreapp3.1\CODU.ai.interview.solution.AssemblyInfo.cs
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\netcoreapp3.1\CODU.ai.interview.solution.csproj.CoreCompileInputs.cache
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\netcoreapp3.1\geektrust.dll
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\netcoreapp3.1\geektrust.pdb
+C:\Users\DEVYANI\source\repos\CODU.ai.interview.solution\CODU.ai.interview.solution\obj\Debug\netcoreapp3.1\CODU.ai.interview.solution.genruntimeconfig.cache
+D:\Project artifact\LedgerCo\CODU.ai.interview.solution\bin\Debug\netcoreapp3.1\LedgerCo.exe
+D:\Project artifact\LedgerCo\CODU.ai.interview.solution\bin\Debug\netcoreapp3.1\LedgerCo.deps.json
+D:\Project artifact\LedgerCo\CODU.ai.interview.solution\bin\Debug\netcoreapp3.1\LedgerCo.runtimeconfig.json
+D:\Project artifact\LedgerCo\CODU.ai.interview.solution\bin\Debug\netcoreapp3.1\LedgerCo.runtimeconfig.dev.json
+D:\Project artifact\LedgerCo\CODU.ai.interview.solution\bin\Debug\netcoreapp3.1\LedgerCo.dll
+D:\Project artifact\LedgerCo\CODU.ai.interview.solution\bin\Debug\netcoreapp3.1\LedgerCo.pdb
+D:\Project artifact\LedgerCo\CODU.ai.interview.solution\obj\Debug\netcoreapp3.1\CODU.ai.interview.solution.AssemblyInfoInputs.cache
+D:\Project artifact\LedgerCo\CODU.ai.interview.solution\obj\Debug\netcoreapp3.1\CODU.ai.interview.solution.AssemblyInfo.cs
+D:\Project artifact\LedgerCo\CODU.ai.interview.solution\obj\Debug\netcoreapp3.1\CODU.ai.interview.solution.csproj.CoreCompileInputs.cache
+D:\Project artifact\LedgerCo\CODU.ai.interview.solution\obj\Debug\netcoreapp3.1\LedgerCo.dll
+D:\Project artifact\LedgerCo\CODU.ai.interview.solution\obj\Debug\netcoreapp3.1\LedgerCo.pdb
+D:\Project artifact\LedgerCo\CODU.ai.interview.solution\obj\Debug\netcoreapp3.1\CODU.ai.interview.solution.genruntimeconfig.cache
